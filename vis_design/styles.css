@@ -1,0 +1,13 @@
+.year-axis text {
+    font-family: Arial, sans-serif; /* Change font family */
+    font-size: 20px; /* Change font size */
+    fill: #333; /* Change text color */
+    /* Add any other CSS properties you want to customize */
+}
+
+.axis text {
+    font-family: Arial, sans-serif; /* Change font family */
+    font-size: 20px; /* Change font size */
+    fill: #333; /* Change text color */
+    /* Add any other CSS properties you want to customize */
+}
